@@ -2,6 +2,4 @@ export const google_logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gc
 
 export const AVATAR="https://avatars.githubusercontent.com/u/149176313?v=4"
 
-export const API_KEY="AIzaSyCd87-JQFE9SuySQWRiRwoO0tJbK6tz7Iw"
-
 export const Gemini_Icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1QWx0soc08N7wU8LjH95wZTkF_q13tg1KH4AOTs3xw&s"

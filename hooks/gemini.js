@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { API_KEY } from "../utils/constants";
+import { API_KEY } from "../../gemini_api";
 
 const geminiLogic = (prompts) => {
 const genAI = new GoogleGenerativeAI(API_KEY);
